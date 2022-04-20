@@ -1,2 +1,3 @@
 Hey.txt
 Hope this is coming along nicely
+Starting to understand how Github works
