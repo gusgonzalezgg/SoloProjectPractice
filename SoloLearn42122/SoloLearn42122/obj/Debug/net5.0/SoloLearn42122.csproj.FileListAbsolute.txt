@@ -1,0 +1,16 @@
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\bin\Debug\net5.0\SoloLearn42122.exe
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\bin\Debug\net5.0\SoloLearn42122.deps.json
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\bin\Debug\net5.0\SoloLearn42122.runtimeconfig.json
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\bin\Debug\net5.0\SoloLearn42122.runtimeconfig.dev.json
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\bin\Debug\net5.0\SoloLearn42122.dll
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\bin\Debug\net5.0\SoloLearn42122.pdb
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\SoloLearn42122.csproj.AssemblyReference.cache
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\SoloLearn42122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\SoloLearn42122.AssemblyInfoInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\SoloLearn42122.AssemblyInfo.cs
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\SoloLearn42122.csproj.CoreCompileInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\SoloLearn42122.dll
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\refint\SoloLearn42122.dll
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\SoloLearn42122.pdb
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\SoloLearn42122.genruntimeconfig.cache
+C:\Users\gusgo\OneDrive\Desktop\SoloProjects\SoloLearn42122\SoloLearn42122\obj\Debug\net5.0\ref\SoloLearn42122.dll
